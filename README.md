@@ -8,5 +8,6 @@ virtualenv env
 source env/bin/activate
 pip install slackclient
 export SLACK_BOT_TOKEN='your slack token here'
-export BOT_ID='your bot user id here'```
+export BOT_ID='your bot user id here'
+```
 
